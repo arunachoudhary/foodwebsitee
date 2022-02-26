@@ -1,0 +1,25 @@
+.ig-wrapper{
+    height: 238px;
+    width: 255px;
+    border-radius: 10px;
+    margin: 20px;
+} 
+.btn{
+    background-color: orange;
+   border-radius: 10px;
+   margin-bottom: 25px; 
+   height: 40px;  
+}
+#myDIV{
+    display: inline-block;
+
+    }
+    .div-wrapper{
+        background-color: aquamarine;
+        margin: 20px;
+        border-radius: 20px;
+    }
+.main-div{
+   text-align: center;
+   margin-top: 100px;
+} 
